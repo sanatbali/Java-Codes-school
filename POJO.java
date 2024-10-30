@@ -15,13 +15,4 @@ public class POJO {
         this.age = age;
     }
 
-
-    String name;
-    int age;
-
-    @Override
-    public String toString() {
-        return "POJO{name='" + name + "', age=" + age + "}";
-    }
-
 }
