@@ -46,4 +46,10 @@ public class practiceGround {
         return lastOccurance;
     }
 
+
+    public static int print()
+    {
+        System.err.println("");
+    }
+
     }
